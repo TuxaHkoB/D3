@@ -1,72 +1,66 @@
-f/p-free/payed
-1/0/2-on/off/will be off soon
-list - server check
-list1 - wiz cursor shapshot
+[date]
+is=
+ 
+[state]
+work=off
+ifoff=no connection to server
+ 
+[version]
+current=3.967
+force_to_update=3.900
  
 [users]
-f1=T
-f2=Che
-f3=Mech
-f4=Bar
-f5=Sat
-f6=what
-f7=Aschool
-f8=TrogWar
-f9=Hadriel
-f10=Hades
-f11=Spartacus
-f12=Zirael
-f13=Bavarec46
-f14=Reptile
-f15=skv
-f16=FierySky (Sasha2106) предлагал заплатить я отказался
-f17=Колян
-f18=Durotan (RAZER)
-f19=Maxa (DH121)
-f20=Armageddon (GD)
-f21=Maxa (GD)
-f22=Christofer
-f23=Jisus
-f24=Maraquia
-f25=RobZon
-p1=Geuld = 12.12.2019 (end of subscription) (Samuele Chirico, Matteo Tosin)
-p2=Lazy = 28.01.2024 (end of subscription) (PRO FUTURO Małgorzata Turek)
-p3=Aggelos
-p4=Krushon = 20.02.2020 (end of subscription) (PRO FUTURO Małgorzata Turek) (lazy paid for him) (заплатил за себя 1000 май 2019 + 2950 Izabela Porowska)
-p5=Antirax = 30.11.2018 (end of subscription) (Samuele Chirico, Matteo Tosin) (Geuld paid forhim)
-p6=Евгений1987 (GD) Witcher = (26.02.2019 заплатил 500р за архонта)
-p7=DingDingDong (or Timch3n) (Hades friend)
-p8=Weeman (АПиАД)(Серега) (03.03.2019 начало использования 500 руб)
-p9=Unstoppable ($5 archon wiz 12.03.19)
-p10=LySyKilla ($5 Arek's friend 27.03.19)
-p11=PaaZo (firend of Lazy 28.05.19 start free)
-p12=undeniable ($5  05.07.2019)
-p13=Zadro (?  26.06.2019)
-p14=ZEST (?  27.06.2019)
-p15=Quasimodo
-p16=Symatic (JonnyBeton) ($15 + 700rub +1000rub 25.07.2019) (Mathias Fritz)
-p17= Lenio (? 19.08.19)
-p18=DOGMA (? 19.08.19)
-p19=Nutej (05.10.19 Arben Krasniqi)
-p20=JaMaS (firend of Lazy start 29.09.19 - $10 +5 +10 +10 Przemyslaw Plewa (заплатил за 24 и 25 $10))
-p21=Masclin (? 11.11.2019)
-p22=Keiler (30.11.2019 $10 +$10 Schirner Marko) (Symatic's friend)
-p23=Pretor (07.01.20 $60 + 60 Wojciech Chraczyński) (Lazy's friend)
-p24=donkichot (28.04.2020 $5 friend of JaMaS (оплатил JaMaS))
-p25=xeen или neex или переименовался (28.04.2020 $5 friend of JaMaS (оплатил JaMaS))
-p26=MAHARAJAN
-=============================
-charge - 1
-pull   - 2
-ww     - 3
-bot    - 4
-dh     - 5
-heal   - 6
-wol    - 7
-pest   - 8
-rat    - 9
-znec  - 10
-Archon - 11
-hole  - 12
-auto  - 14
-WD   -  15
+f1=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+f2=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+f3=1,3,5,6,7,14,15,y
+f4=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+f5=0
+f6=1,3,5,6,7,8,10
+f7=1,3,5,6,7,10,14
+f8=1,3,5,6,7,8,9,10,11,12,14
+f9=1,2,3,5,6,7,8,9,10,12,14
+f10=1,2,3,4,5,6,7,8,9,10,12,14
+f11=1,3,6,7,8,9,10,11,14,15,16,y
+f12=1,3,6,9,10,11,12,14,15,y
+f13=1,3,5,6,7,8,9,10,14,y
+f14=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+f15=1,3,5,6,7,9,10,14
+f16=6,14
+f17=0
+f18=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+f19=1,2,3,4,5,6,7,8,9,10,11,12,14
+f20=1,2,3,4,5,6,7,8,9,10,11,12,14,15
+f21=1,2,3,4,5,6,7,8,9,10,11,12,14,15
+f22=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+f23=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+f24=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+f25=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+p1=1,3,5,6,7,8,10,11,12,14,15,y
+p2=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+p3=0
+p4=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+p5=0
+p6=0
+p7=0
+p8=1,2,3,4,5,6,7,8,9,10,11,12,14,15
+p9=11
+p10=1,2,3,4,5,6,7,8,9,10,11,12,14,15
+p11=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+p12=0
+p13=0
+p14=0
+p15=0
+p16=1,2,3,4,5,6,7,8,9,10,11,12,14,15
+p17=0
+p18=0
+p19=1,2,3,4,5,6,7,8,9,10,11,12,14
+p20=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+p21=0
+p22=1,2,3,4,5,6,7,8,9,10,11,12,14
+p23=1,2,3,4,5,6,7,8,9,10,11,12,14,y
+p24=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+p25=1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,y
+p26=1,14,y
+ 
+list=f1,f2,f3,f4,f11,f12,f14,f18,f20,f21,f22,f23,f24,f25,p2,p4,p10,p11,p16,p20,p22,p23,p24
+list1=f1,f2,f4,f11,f12,f14,f18,f20,f22,f23,f24,f25,p1,p2,p4,p11,p20,p24
